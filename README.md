@@ -222,7 +222,7 @@ Full implementation available on Google Drive:
 
 ## 📜 License
 
-This project is an academic research paper submitted for IEEE conference publication. All experimental code is open for reproduction under academic fair use.
+This project is an academic research paper submitted for IEEE conference publication. 
 
 ---
 
