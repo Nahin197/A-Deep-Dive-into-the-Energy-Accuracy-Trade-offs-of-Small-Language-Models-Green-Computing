@@ -35,22 +35,7 @@ Using **CodeCarbon** inside a reproducible **Google Colab** environment, we meas
 ## 🗂️ Repository Structure
 
 ```
-📁 root/
-├── 📄 conference_101719.tex        # Main IEEE-format paper (LaTeX source)
-├── 📄 conference_101719.pdf        # Compiled paper PDF
-├── 📄 references.bib               # BibTeX bibliography
-├── 📄 IEEEtran.cls                 # IEEE LaTeX class file
-├── 📄 IEEEtran_HOWTO.pdf           # IEEE formatting guide
-│
-├── 🖼️ methodology.png              # Research methodology framework diagram
-├── 🖼️ fig1.png                     # Figure 1
-│
-├── 📊 energy_consumption.png/.pdf  # Energy usage comparison chart
-├── 📊 co2_emissions.png/.pdf       # CO₂ emissions per inference chart
-├── 📊 energy_accuracy_tradeoff.png/.pdf  # Energy vs Accuracy scatter plot
-├── 📊 energy_efficiency.png/.pdf   # Accuracy-per-Wh efficiency ranking
-│
-└── 📁 Models/                      # Jupyter notebooks for each model
+ 📁 Models/                      # Jupyter notebooks for each model
     ├── Falcon3_3B_Instruct.ipynb
     ├── LLaMA_3_2_1B.ipynb
     ├── Phi4mini.ipynb
